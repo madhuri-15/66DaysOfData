@@ -1,5 +1,5 @@
 # 66DaysOfData
 
-|# Day|Company|Difficulty|Title|Solution|
-|--|--|--|--|--|
-|1|Microsoft|Easy|Finding Updated Records||
+|# Day|Company|Difficulty|Platform|Title|Solution|
+|--|--|--|--|--|--|
+|1|Microsoft|Easy|stratascratch|Finding Updated Records||
