@@ -19,7 +19,7 @@ department_id:    int
 
 **Approach**
 
-We need to find current salary of each employee, So we start with looking at entire data from table.
+We need to find the current salary of each employee, So we start by looking at the entire data from a table.
 
 ```
 SELECT *
@@ -33,8 +33,8 @@ FROM ms_employee_salary
 | 2   | Justin     | Simon     | 128922 | 1005          |
 | 2   | Justin     | Simon     | 130000 | 1005          |
 
-Table has multiple records for each employee with outdated salary information. Assuming the salaries of employee increases each year, the current salary would be the highest salary of employee. 
-We can get the highest salary by using `GROUP BY` on `id` column using `MAX(salary)` aggregate function.
+The above table has multiple records for each employee with outdated salary information. Assuming the salary of the employees increases each year, the current salary would be the highest salary of the employee. 
+We can get the highest salary by using `GROUP BY` on the `id` column using the `MAX(salary)` aggregate function.
 
 ```
 SELECT id, 
@@ -44,18 +44,18 @@ GROUP BY id
 ORDER BY id;
 ```
 
-This query the `id` and `MAX(salary)` columns only.
+This queries the `id` and `MAX(salary)` columns only.
 
 | id  | salary |
 | --- | ------ |
 | 1   | 110000 |
 | 2   | 130000 |
 
-But output sould be all the details of the all employees with correct salary. For that we can use `PARTITION BY` clause; 
-With GROUP BY clause, we can only use column in select statement that is used in groupby clause. 
+But the output should be all the details of all employees with the correct salary. For that, we can use the `PARTITION BY` clause; 
+With GROUP BY clause, we can only use column in select statement that is used in the group by clause. 
 
-PARTION BY clause with OVER clause allows us to query column information which is not the part of the partitions. 
-In order to get unique records of employees for only current year, we will use `DISTINCT` function on `id`.
+PARTITION BY with OVER clause allows us to query column information that is not part of the partitions. 
+To get unique records of employees for only the current year, we will use the `DISTINCT` function on `id`.
 
 ```
 SELECT 
