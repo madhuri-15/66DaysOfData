@@ -1,7 +1,8 @@
 # 66DaysOfData
 
-***Difficulty Level*** -> (easy-⭐, medium-⭐⭐,difficult-⭐⭐⭐)
+### *SQL Practice*
 
+***Difficulty Level*** -> (easy-⭐, medium-⭐⭐,difficult-⭐⭐⭐)
 
 | #Day | Company | Difficulty | Platform | Title | Solution |
 | ---- | ------- | ---------- | -------- | ----- | -------- |
