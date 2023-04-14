@@ -1,5 +1,8 @@
 # 66DaysOfData
 
-|# Day|Company|Difficulty|Platform|Title|Solution|
-|--|--|--|--|--|--|
-|1|Microsoft|Easy|stratascratch|Finding Updated Records||
+***Difficulty Level*** -> (easy-⭐, medium-⭐⭐,difficult-⭐⭐⭐)
+
+
+| #Day | Company | Difficulty | Platform | Title | Solution |
+| ---- | ------- | ---------- | -------- | ----- | -------- |
+| 1 | Microsoft | ⭐ | Stratascratch | Finding Updated Records | [📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2301) |
