@@ -59,6 +59,7 @@ SELECT
     COUNT(skill) as skill_count
 FROM 
     candidates
+WHERE skill IN ('Python', 'Tableau', 'PostgreSQL')
 GROUP BY candidate_id;
 ```
 
@@ -70,11 +71,12 @@ GROUP BY candidate_id;
 As we need a candidate with all three skills, we only select candidates with count three using the `HAVING` clause.
 
 ```
-SELECT 
+SELECT candidate_id
+FROM  candidates
+WHERE skill IN ('Python', 'Tableau', 'PostgreSQL')
+GROUP BY 
     candidate_id
-FROM 
-    candidates
-GROUP BY candidate_id
-HAVING COUNT(skill) = 3
+HAVING 
+    COUNT(skill) = 3
 ORDER BY candidate_id;
 ```
