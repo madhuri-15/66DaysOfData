@@ -74,7 +74,7 @@ ON E.department_id =  D.id;
 | human resource | 32165  |
 | operation      | 49488  |
 
-- Next, we compute the maximum salary by using `GROUP BY` clause on column department column.
+- Next, we compute the maximum salary of each departments by using `GROUP BY` clause on department column.
 
 ```
 SELECT 
@@ -93,7 +93,7 @@ GROUP BY department;
 | human resource | 46356  |
 | marketing      | 48187  |
 
-- Next, we create a common table expression CTE for temperary table to store the above result as table
+- To save the above results as a table, create a common table expression CTE for temperary table.
 
 ```
 WITH max_salary AS
@@ -116,8 +116,9 @@ SELECT * FROM max_salary;
 | human resource | 46356  |
 | marketing      | 48187  |
 
-- Using `max_salary` table, we write a query which calculate difference between maximum salary from marketing and engineering departments.
+- Using `max_salary` table, write a query which calculate difference between maximum salary from marketing and engineering departments.
 
+Final Solution
 ```
 WITH max_salary AS
     (
