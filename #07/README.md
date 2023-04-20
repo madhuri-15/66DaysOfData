@@ -1,4 +1,4 @@
-# App Click-through Rate (CTR) [Facebook SQL Interview Question]
+# App Click-through Rate (CTR)
 
 #### Question
 
