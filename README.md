@@ -13,4 +13,6 @@
 | 5 | Apple | ⭐ | Stratascratch | Count the number of user events performed by MacBookPro users |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2305)|
 | 6 | Meta/Facebook | ⭐ | Stratascratch | Popularity of Hack |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2306)|
 | 7 | Meta/Facebook | ⭐ | DataLemur | App Click-through Rate (CTR) |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2307)|
+| 8 | City of San Francisco | ⭐⭐ | Stratascratch | Number of violations |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2308)|
+
 
