@@ -14,5 +14,8 @@
 | 6 | Meta/Facebook | ⭐ | Stratascratch | Popularity of Hack |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2306)|
 | 7 | Meta/Facebook | ⭐ | DataLemur | App Click-through Rate (CTR) |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2307)|
 | 8 | City of San Francisco | ⭐⭐ | Stratascratch | Number of violations |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2308)|
+| 9 | Twitter, Asana | ⭐⭐ | Stratascratch | Highest Salary In Department |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2309)|
+| 10 | Spotify | ⭐⭐ | Stratascratch | Find the top 10 ranked songs in 2010 |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2310)|
+
 
 
