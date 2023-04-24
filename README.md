@@ -16,6 +16,8 @@
 | 8 | City of San Francisco | ⭐⭐ | Stratascratch | Number of violations |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2308)|
 | 9 | Twitter, Asana | ⭐⭐ | Stratascratch | Highest Salary In Department |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2309)|
 | 10 | Spotify | ⭐⭐ | Stratascratch | Find the top 10 ranked songs in 2010 |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2310)|
+| 11 | City of San Francisco | ⭐⭐ | Stratascratch | Classify Business Type |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2311)|
+
 
 
 
