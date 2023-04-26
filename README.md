@@ -18,6 +18,8 @@
 | 10 | Spotify | ⭐⭐ | Stratascratch | Find the top 10 ranked songs in 2010 |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2310)|
 | 11 | City of San Francisco | ⭐⭐ | Stratascratch | Classify Business Type |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2311)|
 | 12 | Amazon Meta/Facebook | ⭐⭐ | Stratascratch | Customer Revenue In March |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2312)|
+| 13 | Airbnb | ⭐⭐ | Stratascratch | Find matching hosts and guests in a way that they are both of the same gender and nationality |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2313)|
+
 
 
 
