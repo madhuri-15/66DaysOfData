@@ -19,6 +19,10 @@
 | 11 | City of San Francisco | ⭐⭐ | Stratascratch | Classify Business Type |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2311)|
 | 12 | Amazon Meta/Facebook | ⭐⭐ | Stratascratch | Customer Revenue In March |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2312)|
 | 13 | Airbnb | ⭐⭐ | Stratascratch | Find matching hosts and guests in a way that they are both of the same gender and nationality |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2313)|
+| 14 | Walmart, Best Buy, Dropbox | ⭐⭐ | Stratascratch | Employee and Manager Salaries |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2314)|
+| 15 | Salesforce | ⭐⭐ | Stratascratch | Highest Target Under Manager |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2315)|
+| 16 | ESPN | ⭐⭐ | Stratascratch | Largest Olympics |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2316)|
+
 
 
 
