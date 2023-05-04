@@ -22,6 +22,9 @@
 | 14 | Walmart, Best Buy, Dropbox | ⭐⭐ | Stratascratch | Employee and Manager Salaries |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2314)|
 | 15 | Salesforce | ⭐⭐ | Stratascratch | Highest Target Under Manager |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2315)|
 | 16 | ESPN | ⭐⭐ | Stratascratch | Largest Olympics |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2316)|
+| 17 | Amazon, Shopify | ⭐⭐ | Stratascratch | Highest Cost Orders |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2317)|
+| 18 | Wine Magazine | ⭐⭐ | Stratascratch | Find all wineries which produce wines by possessing aromas of plum, cherry, rose, or hazelnut |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2318)|
+
 
 
 
