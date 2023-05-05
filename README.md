@@ -24,6 +24,8 @@
 | 16 | ESPN | ⭐⭐ | Stratascratch | Largest Olympics |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2316)|
 | 17 | Amazon, Shopify | ⭐⭐ | Stratascratch | Highest Cost Orders |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2317)|
 | 18 | Wine Magazine | ⭐⭐ | Stratascratch | Find all wineries which produce wines by possessing aromas of plum, cherry, rose, or hazelnut |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2318)|
+| 19 | Amazon, DoorDash | ⭐⭐ | Stratascratch | Workers With The Highest Salaries |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2319)|
+
 
 
 
