@@ -25,6 +25,9 @@
 | 17 | Amazon, Shopify | ⭐⭐ | Stratascratch | Highest Cost Orders |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2317)|
 | 18 | Wine Magazine | ⭐⭐ | Stratascratch | Find all wineries which produce wines by possessing aromas of plum, cherry, rose, or hazelnut |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2318)|
 | 19 | Amazon, DoorDash | ⭐⭐ | Stratascratch | Workers With The Highest Salaries |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2319)|
+| 20 | City of San Francisco | ⭐⭐ | Stratascratch | Income By Title and Gender |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2320)|
+| 21 | Airbnb | ⭐⭐ | Stratascratch | Number Of Units Per Nationality |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2321)|
+
 
 
 
