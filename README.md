@@ -4,8 +4,8 @@
 
 ***Difficulty Level***  (easy-⭐, medium-⭐⭐,difficult-⭐⭐⭐)
 
-| #Day | Company | Difficulty | Platform | Title | Solution |
-| ---- | ------- | ---------- | -------- | ----- | -------- |
+| #Day | Company | Difficulty level  | Platform | Title | Solution |
+| ---- | ------- | ---------------- | -------- | ----- | -------- |
 | 1 | Microsoft | ⭐ | Stratascratch | Finding Updated Records | [📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2301) |
 | 2 | LinkedIn | ⭐ | DataLemur | Data Scicence Skills | [📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2302) |
 | 3 | Forbes | ⭐ | Stratascratch | Find the most profitable company in the financial sector of the entire world along with its continent |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2303)|
@@ -27,6 +27,8 @@
 | 19 | Amazon, DoorDash | ⭐⭐ | Stratascratch | Workers With The Highest Salaries |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2319)|
 | 20 | City of San Francisco | ⭐⭐ | Stratascratch | Income By Title and Gender |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2320)|
 | 21 | Airbnb | ⭐⭐ | Stratascratch | Number Of Units Per Nationality |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2321)|
+| 22 | Airbnb | ⭐⭐⭐  | Stratascratch | Host Popularity Rental Prices |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2322)|
+
 
 
 
