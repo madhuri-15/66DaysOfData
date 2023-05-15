@@ -29,6 +29,8 @@
 | 21 | Airbnb | ⭐⭐ | Stratascratch | Number Of Units Per Nationality |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2321)|
 | 22 | Airbnb | ⭐⭐⭐  | Stratascratch | Host Popularity Rental Prices |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2322)|
 | 23 | Yelp | ⭐⭐⭐  | Stratascratch | Top 5 States With 5 Star Businesses |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2323)|
+| 24 | Microsoft | ⭐⭐⭐  | Stratascratch | Premium Vs. Freemium |[📄 Solution](https://github.com/madhuri-15/66DaysOfData/tree/main/%2324)|
+
 
 
 
