@@ -72,9 +72,8 @@ SELECT state,
        n_business
 FROM
   (SELECT *,
-          rank() OVER (
-                       ORDER BY n_business DESC) AS rnk
-   FROM cte) AS a
+          rank() OVER (ORDER BY n_business DESC) AS rnk
+   FROM n_business_cte) AS a
 WHERE rnk <= 5
 ORDER BY n_business DESC,
          state ASC       
